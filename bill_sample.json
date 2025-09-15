@@ -1,0 +1,30 @@
+{
+  "id": 190459,
+  "uid": "164813",
+  "section": "IPD",
+  "bill_date": "2025-09-05 22:56:38",
+  "patient_id": 419151,
+  "patient_name": "SUNDARI BAG",
+  "phone": "9153806698",
+  "doctor_name": "Md Aftab Alam",
+  "total": "34573.00",
+  "grand_total": "2000.00",
+  "discount_amount": "32573.00",
+  "total_payment": "2000.00",
+  "refund_amount": "0.00",
+  "due_amount": "0.00",
+  "cradituse_bill_amount": null,
+  "ref_by": "DR. ANJARUL HAQUE",
+  "mar_by": null,
+  "pro_by": null,
+  "bill_status": 2,
+  "cre_date": "05-09-2025",
+  "due_amount_total": 0,
+  "refund_amount_total": 0,
+  "adjustment_amount_total": 0,
+  "amounts": {
+    "due": 0,
+    "refund": 0,
+    "adjustment": 0
+  }
+}
